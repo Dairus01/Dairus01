@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi — I'm Dairus Okoh   <br>I'm a Blockchain Data Scientist and Machine Learning Engineer with 2 years of hands-on experience building models, analytics, and data infrastructure that bridge research and product. I combine statistical rigor with engineering best practices to deliver scalable, maintainable solutions across backend and data layers.<br><br>What I build<br>- ML models and experimental pipelines with **Python** and **R**<br>- Data processing and streaming solutions using **Scala** and JVM tooling<br>- Frontend/automation tooling with **TypeScript** / **JavaScript**<br>- Production integrations and tooling in **Java**<br><br>Notable<br>- 🏆 3× Hackathon winner — including Winner, Machine Learning Hackathon at DSN AI Bootcamp (the largest AI bootcamp in Africa)<br>- 🎯 Focused on advancing AI + blockchain: exploring practical strategies for decentralized intelligence, secure data sharing, and real-world adoption<br><br>Open to<br>- Collaborations, internships, and full-time opportunities in applied ML, blockchain research, or data engineering.<br><br>Get in touch<br>- Email: [okohdairus@gmail.com](mailto:okohdairus@gmail.com)  <br>- X: [x.com/DairusOkoh](https://x.com/DairusOkoh)<br><br>Tech & tools: **Python · R · Scala · TypeScript · JavaScript · Java · ML · Data Engineering · Blockchain**
+Hello World! I'm Dairus Okoh   <br>I'm a Blockchain Data Scientist and Machine Learning Engineer with 2 years of hands-on experience building models, analytics, and data infrastructure that bridge research and product. I combine statistical rigor with engineering best practices to deliver scalable, maintainable solutions across backend and data layers.<br><br>What I build<br>- ML models and experimental pipelines with **Python** and **R**<br>- Data processing and streaming solutions using **Scala** and JVM tooling<br>- Frontend/automation tooling with **TypeScript** / **JavaScript**<br>- Production integrations and tooling in **Java**<br><br>Notable<br>- 🏆 3× Hackathon winner — including Winner, Machine Learning Hackathon at DSN AI Bootcamp (the largest AI bootcamp in Africa)<br>- 🎯 Focused on advancing AI + blockchain: exploring practical strategies for decentralized intelligence, secure data sharing, and real-world adoption<br><br>Open to<br>- Collaborations, internships, and full-time opportunities in applied ML, blockchain research, or data engineering.<br><br>Get in touch<br>- Email: [okohdairus@gmail.com](mailto:okohdairus@gmail.com)  <br>- X: [x.com/DairusOkoh](https://x.com/DairusOkoh)<br><br>Tech & tools: **Python · R · Scala · TypeScript · JavaScript · Java · ML · Data Engineering · Blockchain**
 
 
 # 💻 Tech Stack:
@@ -12,9 +12,7 @@ Hi — I'm Dairus Okoh   <br>I'm a Blockchain Data Scientist and Machine Learnin
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dairus01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=Dairus01&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dairus01 &icon=0&color=0)](https://visitcount.itsvg.in)
