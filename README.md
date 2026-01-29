@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Hi — I'm **Dairus Okoh** ([@Dairus01](https://github.com/Dairus01)) 👋  
+Hello World! I'm **Dairus Okoh** ([@Dairus01](https://github.com/Dairus01)) 👋  
 I'm a **Blockchain Data Scientist and Machine Learning Engineer** with 2+ years of hands-on experience building models, analytics, and data infrastructure that bridge research and product. I combine statistical rigor with engineering best practices to deliver scalable, maintainable solutions across backend and data layers.
 
 ### What I Build
